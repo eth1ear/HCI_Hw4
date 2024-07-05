@@ -31,23 +31,23 @@
 
 #### 3.1 百川2-7b
 
-![3.1](images\3.1.png)
+![3.1](images/3.1.png)
 
 #### 3.2 Qwen-7B-Chat
 
-![3.1](images\3.21.png)
+![3.1](images/3.21.png)
 
-![3.1](images\3.2.png)
+![3.1](images/3.2.png)
 
 #### 3.3 ZhipuAI-chatglm3-6b
 
-![3.1](images\3.31.png)
+![3.1](images/3.31.png)
 
-![3.1](images\3.3.png)
+![3.1](images/3.3.png)
 
 #### 3.4 书生·浦语-对话-7b
 
-![3.1](images\3.4.png)
+![3.1](images/3.4.png)
 
 ### 4. 问答测试设计与执行
 
@@ -92,27 +92,27 @@
 
 ##### 4.2.1 百川2-7b
 
-![3.1](images\4.211.png)
+![3.1](images/4.211.png)
 
-![3.1](images\4.212.png)
+![3.1](images/4.212.png)
 
-![3.1](images\4.213.png)
+![3.1](images/4.213.png)
 
 ##### 4.2.2 Qwen-7B-Chat
 
-![3.1](images\4.221.png)
+![3.1](images/4.221.png)
 
-![3.1](images\4.222.png)
+![3.1](images/4.222.png)
 
 ##### 4.2.3 ZhipuAI-chatglm3-6b
 
-![3.1](images\4.231.png)
+![3.1](images/4.231.png)
 
-![](images\4.232.png)
+![](images/4.232.png)
 
 ##### 4.2.4 书生·浦语-对话-7b
 
-![3.1](images\4.24.png)
+![3.1](images/4.24.png)
 
 #### 4.3 测试结果
 
